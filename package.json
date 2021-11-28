@@ -1,0 +1,16 @@
+{
+  "name": "framework-arduinoadafruitnrf52",
+  "version": "1.2400.210809",
+  "description": "Arduino Wiring-based Framework for Nordic Semiconductor nRF52 BLE SoC",
+  "keywords": [
+    "framework",
+    "arduino",
+    "nordic semiconductor",
+    "nrf52"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cygann/Adafruit_nRF52_Arduino"
+  }
+}
+
