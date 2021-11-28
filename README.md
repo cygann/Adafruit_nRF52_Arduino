@@ -4,6 +4,8 @@
 
 This repository contains the Arduino BSP for Adafruit Bluefruit nRF52 series:
 
+The Adafruit Feather nRF52840 variant has been modified for use with [Umbelt](https://github.com/cygann/umbelt-hw). Target this board for Umbelt.
+
 - [Adafruit CLUE nRF52840](https://www.adafruit.com/product/4500)
 - [Adafruit Circuit Playground Bluefruit](https://www.adafruit.com/product/4333)
 - [Adafruit Feather nRF52832](https://www.adafruit.com/product/3406)
